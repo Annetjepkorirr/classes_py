@@ -59,7 +59,7 @@
 
 # Add a repay_loan method with this functionality
 # A customer can repay a loan to reduce the current loan_balance
-# Overpayment of a loan increases the accounts current balance
+# Overpayment of a loan increases the acots current balance
 
 
 
