@@ -26,7 +26,7 @@ class Student:
     def year_of_birth(self):
         return f"My year of bith is {2023-self.age}"
     
-    def show_initials(self):
+    def show_initials(self):  #argument here is self. Used to refer to the attributes of the class instance
         return f"{self.first_name[0].upper} {self.last_name[0].upper}"
         
         
